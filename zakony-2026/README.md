@@ -1,6 +1,6 @@
 # Stavropol Krai: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 23 versions, from 2026-01-30 (latest in force: 2026-10-29) · <http://publication.pravo.gov.ru/documents/block/region26>
+Законы 2026 · 24 versions, from 2026-01-30 (latest in force: 2026-11-06) · <http://publication.pravo.gov.ru/documents/block/region26>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,7 +14,14 @@
 | Закон № 105-кз | [105-kz.md](105-kz.md) | 1 | 2026-10-29 |
 | Закон № 106-кз | [106-kz.md](106-kz.md) | 1 | 2026-10-29 |
 | Закон № 107-кз | [107-kz.md](107-kz.md) | 1 | 2026-10-29 |
+| Закон № 108-кз | [108-kz.md](108-kz.md) | 1 | 2026-11-06 |
+| Закон № 109-кз | [109-kz.md](109-kz.md) | 1 | 2026-11-06 |
 | Закон № 11-кз | [11-kz.md](11-kz.md) | 1 | 2026-02-27 |
+| Закон № 110-кз | [110-kz.md](110-kz.md) | 1 | 2026-11-06 |
+| Закон № 111-кз | [111-kz.md](111-kz.md) | 1 | 2026-11-06 |
+| Закон № 112-кз | [112-kz.md](112-kz.md) | 1 | 2026-11-06 |
+| Закон № 113-кз | [113-kz.md](113-kz.md) | 1 | 2026-11-06 |
+| Закон № 114-кз | [114-kz.md](114-kz.md) | 1 | 2026-11-06 |
 | Закон № 12-кз | [12-kz.md](12-kz.md) | 1 | 2026-02-27 |
 | Закон № 13-кз | [13-kz.md](13-kz.md) | 1 | 2026-02-27 |
 | Закон № 14-кз | [14-kz.md](14-kz.md) | 1 | 2026-02-27 |
