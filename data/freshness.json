@@ -1,0 +1,25 @@
+{
+ "schema": "lexifina-trail-freshness/1",
+ "as_of": "2026-11-24",
+ "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
+ "checked_against_official_source": "2026-11-24",
+ "totals": {
+  "acts": 1691,
+  "by_status": {
+   "current": 1684,
+   "pending-change": 7,
+   "stale": 0,
+   "unverified": 0,
+   "source-unavailable": 0
+  }
+ },
+ "sources": [
+  {
+   "source": "pravo-stavropol",
+   "name": "Stavropol Krai: Official Internet Portal of Legal Information (region26)",
+   "state": "available",
+   "last_successful_check": "2026-11-24",
+   "last_successful_contact": "2026-11-24"
+  }
+ ]
+}
