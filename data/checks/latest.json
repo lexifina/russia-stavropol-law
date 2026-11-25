@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:55:00Z",
+ "generated": "2026-11-25T07:02:47Z",
  "latest": {
   "pravo-stavropol|russia/stavropol/acts": {
    "attempt": 1,
@@ -13,37 +13,25 @@
    },
    "census": {
     "checked": 1698,
-    "current": 1691,
+    "current": 1698,
     "gone": 0,
-    "held": 1691,
-    "newest_in_repo": "2026-10-29",
-    "pending": 7,
-    "repo": 1691,
+    "held": 1698,
+    "newest_in_repo": "2026-11-06",
+    "pending": 0,
+    "repo": 1698,
     "source_in_scope": 1698
    },
-   "check_id": "ru-pravo-stavropol-20261124T145103Z",
-   "commits": {
-    "count": 2,
-    "from": "5d019f6c2705b1f64e0934298f5b48335847968b",
-    "to": "3a1c86edae60a4ee6ced892d6f6cefc5ae4f75e8"
-   },
+   "check_id": "ru-pravo-stavropol-20261125T063554Z",
+   "commits": null,
    "corpus": "russia/stavropol/acts",
    "error": null,
-   "finished": "2026-11-24T14:54:59Z",
+   "finished": "2026-11-25T06:36:46Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region26: 1698 law-type documents listed (every page read); 1691 held here; 7 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region26: 1698 law-type documents listed (every page read); 1698 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "2600202611060003",
-     "2600202611060004",
-     "2600202611060005",
-     "2600202611060006",
-     "2600202611060007",
-     "2600202611060008",
-     "2600202611060009"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -51,34 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "2600202611060003",
-     "2600202611060004",
-     "2600202611060005",
-     "2600202611060006",
-     "2600202611060007",
-     "2600202611060008",
-     "2600202611060009"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1698 law-type documents in block region26; newest published 2026-11-06",
    "source": "pravo-stavropol",
-   "started": "2026-11-24T14:51:03Z",
+   "started": "2026-11-25T06:35:54Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,

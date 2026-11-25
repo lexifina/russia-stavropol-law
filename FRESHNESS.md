@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Stavropol Krai: Official Internet Portal of Legal Information (region26) · `russia/stavropol/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 14:54 UTC**.
-- Acts held here: 1 691; current at the source: 1 691; changed at the source since the version held here: 7; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 06:36 UTC**.
+- Acts held here: 1 698; current at the source: 1 698; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).
