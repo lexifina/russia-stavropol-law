@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:19:57Z",
+ "generated": "2026-11-27T06:11:56Z",
  "latest": {
   "pravo-stavropol|russia/stavropol/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1698,
     "source_in_scope": 1698
    },
-   "check_id": "ru-pravo-stavropol-20261126T060016Z",
+   "check_id": "ru-pravo-stavropol-20261127T055414Z",
    "commits": null,
    "corpus": "russia/stavropol/acts",
    "error": null,
-   "finished": "2026-11-26T06:00:58Z",
+   "finished": "2026-11-27T05:54:55Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region26: 1698 law-type documents listed (every page read); 1698 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1698 law-type documents in block region26; newest published 2026-11-06",
    "source": "pravo-stavropol",
-   "started": "2026-11-26T06:00:16Z",
+   "started": "2026-11-27T05:54:14Z",
    "unexplained": 0,
    "update": {
     "parts": []
